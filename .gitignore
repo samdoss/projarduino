@@ -1,5 +1,14 @@
 # Prerequisites
 *.d
+packages/*
+src/*/bin/*
+src/*/obj/*
+/bin/*
+*/obj/*
+*/packages/*
+.vs/*
+output/*
+Build/*.exe
 
 # Compiled Object files
 *.slo
