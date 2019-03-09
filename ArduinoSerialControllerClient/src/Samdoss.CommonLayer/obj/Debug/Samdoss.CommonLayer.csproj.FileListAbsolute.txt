@@ -1,0 +1,10 @@
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\bin\Debug\Samdoss.CommonLayer.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\bin\Debug\Samdoss.CommonLayer.pdb
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\obj\Debug\Samdoss.CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\obj\Debug\Samdoss.CommonLayer.csproj.CopyComplete
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\obj\Debug\Samdoss.CommonLayer.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\obj\Debug\Samdoss.CommonLayer.pdb
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.CommonLayer\obj\Debug\Samdoss.CommonLayer.csprojAssemblyReference.cache

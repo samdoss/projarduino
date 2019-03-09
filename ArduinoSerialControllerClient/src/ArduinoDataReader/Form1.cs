@@ -1,4 +1,5 @@
-﻿using Samdoss.DataLayer;
+﻿using Samdoss.CommonLayer;
+using Samdoss.DataLayer;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -23,8 +24,19 @@ namespace ArduinoDataReader
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-			
-						
+
+			DataStore ds = new DataStore();
+			ds.ScreenMode = ScreenMode.Add;
+			while (true)
+			{
+				string data = "31";
+				if (!string.IsNullOrEmpty(data))
+				{
+					ds.DataValue = data;
+					ds.Commit();
+					Console.WriteLine(data);
+				}
+			}
 		}
 
 		public void CallToChildThread()

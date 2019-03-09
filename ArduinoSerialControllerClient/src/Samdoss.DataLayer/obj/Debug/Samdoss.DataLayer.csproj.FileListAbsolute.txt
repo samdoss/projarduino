@@ -1,0 +1,12 @@
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\bin\Debug\Samdoss.DataLayer.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\bin\Debug\Samdoss.DataLayer.pdb
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\bin\Debug\Samdoss.CommonLayer.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\bin\Debug\Samdoss.CommonLayer.pdb
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\obj\Debug\Samdoss.DataLayer.csprojAssemblyReference.cache
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\obj\Debug\Samdoss.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\obj\Debug\Samdoss.DataLayer.csproj.CopyComplete
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\obj\Debug\Samdoss.DataLayer.dll
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\Samdoss.DataLayer\obj\Debug\Samdoss.DataLayer.pdb
