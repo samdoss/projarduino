@@ -1,7 +1,7 @@
 C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\bin\Debug\ArduinoSerialControllerClient.dll
 C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\bin\Debug\ArduinoSerialControllerClient.pdb
-C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ArduinoSerialControllerClient\obj\Debug\ArduinoSerialControllerClient.csprojAssemblyReference.cache
 C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ArduinoSerialControllerClient\obj\Debug\ArduinoSerialControllerClient.csproj.CoreCompileInputs.cache
 C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ArduinoSerialControllerClient\obj\Debug\ArduinoSerialControllerClient.csproj.CopyComplete
 C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ArduinoSerialControllerClient\obj\Debug\ArduinoSerialControllerClient.dll
 C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ArduinoSerialControllerClient\obj\Debug\ArduinoSerialControllerClient.pdb
+C:\Users\Samdoss\Desktop\Roger\workingperfect\github\projarduino\ArduinoSerialControllerClient\src\ArduinoSerialControllerClient\obj\Debug\ArduinoSerialControllerClient.csprojAssemblyReference.cache
